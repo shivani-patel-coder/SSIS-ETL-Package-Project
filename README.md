@@ -18,7 +18,7 @@ OLEDB Destination Connection Sneakpeak!
 
 Demo CSV File
 
-[CSV File overview](https://user-images.githubusercontent.com/75600348/121791072-c8d90500-cb9a-11eb-8ea4-e7063a379ae8.JPG)
+![CSV File overview](https://user-images.githubusercontent.com/75600348/121791072-c8d90500-cb9a-11eb-8ea4-e7063a379ae8.JPG)
 
 ETL Run Success
 
