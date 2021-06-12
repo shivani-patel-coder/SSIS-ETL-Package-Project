@@ -28,3 +28,6 @@ SQL Server Run
 
 ![Data Transferred Success](https://user-images.githubusercontent.com/75600348/121791211-47827200-cb9c-11eb-8a29-dfe0be96c4cc.JPG)
 
+DemoETL Package Deployed in SQL Server Success
+
+![Package Deployed](https://user-images.githubusercontent.com/75600348/121791401-59fdab00-cb9e-11eb-93db-6d22f670b75b.JPG)
